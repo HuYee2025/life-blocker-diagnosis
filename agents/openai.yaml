@@ -1,0 +1,4 @@
+interface:
+  display_name: "人生卡点问诊"
+  short_description: "Turn vague life blocks into testable questions"
+  default_prompt: "请用 $life-blocker-diagnosis，先帮我找到真正值得回答的问题，不要直接给建议。"
